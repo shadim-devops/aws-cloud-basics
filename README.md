@@ -62,5 +62,3 @@ Never commit access keys, secret keys, session tokens, or AWS CLI credential fil
 ## Project Status
 
 Completed as a practical AWS administration exercise. This repository describes the completed tasks and provides representative commands; it does not contain automated infrastructure deployment code.
-# aws-cloud-basics
-# aws-cloud-basics
